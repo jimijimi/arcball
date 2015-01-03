@@ -5,7 +5,7 @@ cube.rb. This is a extended version of the cube program found on:
     
 	github.com/larskanis/opengl
 
-	the cube.rb file is located in the redbook folder.
+The cube.rb file is located in the redbook folder.
 	
 The program has been modiefied with a ruby implementation of Ken Shoemake arcball controller.
 See: Graphic Gems IV. Page 175. Academic Press LTD. 
@@ -36,11 +36,13 @@ Linux users may need administrator privileges.
 
 The output will be something like this:
 
+'''
 *** LOCAL GEMS ***
 glu (8.2.1 x86-mingw32)
 glut (8.2.1 x86-mingw32)
 opengl (0.9.1 x86-mingw32)
 etc ...
+'''
 
 If this is about the same then you can execute the script.
 If not, then you need to install them using 'gem' ( preferred method ) or by building the gems by yourself.
@@ -72,5 +74,6 @@ License:
 --------
 
 The original Redbook code is licensed according to http://oss.sgi.com/projects/FreeB
+
 The arcball controller implementation is Copyright(C) 2015 Jaime Ortiz.
 See license.md file for licensing information.	
