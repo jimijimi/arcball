@@ -59,6 +59,15 @@ Installation:
 	
 	$ ruby .\cube.rb
 
+![Picture] (https://raw.github.com/jimijimi/arcball/master/images/windows_7_001.jpg)	
+	
+	
+Autor:
+------
+
+Jaime Ortiz ( jimijimi ) email: jim2o at hotmail.com or quark.charm at gmail.com	
+	
+	
 License:
 --------
 
