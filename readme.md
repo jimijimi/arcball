@@ -36,13 +36,13 @@ Linux users may need administrator privileges.
 
 The output will be something like this:
 
-'''
+```
 *** LOCAL GEMS ***
 glu (8.2.1 x86-mingw32)
 glut (8.2.1 x86-mingw32)
 opengl (0.9.1 x86-mingw32)
 etc ...
-'''
+```
 
 If this is about the same then you can execute the script.
 If not, then you need to install them using 'gem' ( preferred method ) or by building the gems by yourself.
